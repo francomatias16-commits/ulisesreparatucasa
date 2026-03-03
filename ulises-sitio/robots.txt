@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+# Bloquear archivos innecesarios
+Disallow: /js/
+Disallow: /css/
+Disallow: /404.html
+
+# Crawl delay (opcional, para servidores lentos)
+# Crawl-delay: 1
+
+# Sitemap
+Sitemap: https://ulisesreparatucasa.com.ar/sitemap.xml

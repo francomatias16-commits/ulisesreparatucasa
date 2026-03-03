@@ -1,0 +1,38 @@
+{
+  "name": "Ulises – Repara Tu Casa",
+  "short_name": "Ulises",
+  "description": "Plomería, gas, electricidad y más en Buenos Aires. +20 años de experiencia.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#e8500a",
+  "lang": "es-AR",
+  "orientation": "portrait-primary",
+  "categories": ["business", "utilities"],
+  "icons": [
+    {
+      "src": "/img/logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/img/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "WhatsApp",
+      "url": "https://wa.me/5491130111784",
+      "description": "Contactar por WhatsApp"
+    },
+    {
+      "name": "Llamar",
+      "url": "tel:+5491130111784",
+      "description": "Llamar ahora"
+    }
+  ]
+}
